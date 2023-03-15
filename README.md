@@ -4,7 +4,7 @@ I'm a student Developer at Nashville Software School. I enjoy learing new langua
 
 Skills: REACT / JS / HTML / CSS / Python
  
-- 🌱 I’m currently learning Backend Development using Python / Django
+- 🌱 I’m currently working on my fullstack capstone, Gnovel.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Klaw47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/keatonlaw/)  
