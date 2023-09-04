@@ -1,6 +1,5 @@
 ### Hello! 👋
 I am Keaton, and Keaton means me.
-I'm a student Developer at Nashville Software School. I enjoy learing new languages and Frameworks like React and Next.js
 
 Skills: REACT / JS / HTML / CSS / Python
  
